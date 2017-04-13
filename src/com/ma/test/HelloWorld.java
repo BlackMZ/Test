@@ -8,7 +8,7 @@ package com.ma.test;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		
+		//测试
 		char[] copyFrom = {'d', 'e', 'c', 'a', 'f', 'f', 'e',
 	            'i', 'n', 'a', 't', 'e', 'd'};
 	            
